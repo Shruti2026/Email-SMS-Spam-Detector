@@ -13,11 +13,6 @@ A web-based application that predicts whether a given email or SMS message is **
 
 ---
 
-## 🔗 Live Demo
-
-Check out the live version of the project here: [**Email/SMS Spam Predictor**](https://email-sms-spam-predictor.streamlit.app/)
-
----
 
 ## 🚀 How It Works
 
@@ -75,16 +70,4 @@ Follow these steps to set up the project on your local system:
 4. **Run the Streamlit application**:
     ```bash
     streamlit run app.py
-
-5. **Access the app locally**:
-    - Open your browser and navigate to: http://localhost:8501
-
 ---
-
-## 💻Output
-
-- **Spam message**
-![Spam Mail Output](./Images/spam.png)
-
-- **Ham message**
-![Ham Mail Output](./Images/ham.png)
