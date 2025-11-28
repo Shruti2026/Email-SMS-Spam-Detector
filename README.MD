@@ -15,10 +15,10 @@ A web-based application that predicts whether a given email or SMS message is **
 
 ## Screenshots
 - **HAM**
-<img src="./Images/ham.png" width="400" />
+<img src="./Images/ham.png" />
 
 - **SPAM**
-<img src="./Images/spam.png" width="400" />
+<img src="./Images/spam.png" />
 
 
 ## 🚀 How It Works
