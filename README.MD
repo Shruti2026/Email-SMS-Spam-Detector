@@ -13,6 +13,13 @@ A web-based application that predicts whether a given email or SMS message is **
 
 ---
 
+## Screenshots
+- **HAM**
+<img src="./Images/ham.png" width="400" />
+
+- **SPAM**
+<img src="./Images/spam.png" width="400" />
+
 
 ## 🚀 How It Works
 
@@ -55,7 +62,7 @@ Follow these steps to set up the project on your local system:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Arup03NITRR/Email-SMS-Spam-Predictor.git
+   git clone https://github.com/Shruti2026/Email-SMS-Spam-Predictor.git
    cd email-sms-spam-predictor
 
 2. **Set up a virtual environment**:
